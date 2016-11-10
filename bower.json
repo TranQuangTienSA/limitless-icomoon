@@ -1,0 +1,22 @@
+{
+  "name": "limitless-icomoon",
+  "homepage": "https://github.com/tientq/limitless-icomoon",
+  "authors": [
+    "Quang Tien <tientq@dkt.com.vn>"
+  ],
+  "description": "Icomoon for Limitless - Responsive Web Application Kit",
+  "main": "dist/css/icons/icomoon/styles.css",
+  "keywords": [
+    "limitless",
+    "dms",
+    "icomoon"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
